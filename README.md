@@ -3,7 +3,7 @@
 [Check it out LIVE](https://stankovics.github.io/Bankist/)
 
 This is project from advanced JavaScript course
-
+ Includes:
 - DOM manipulating
 - Intersection Observer API
 
